@@ -19,11 +19,11 @@
 
 </div>
 
-- :small_blue_diamond: 17-year-old full-stack web developer
-- :small_blue_diamond: Passionate about building modern web applications
-- :small_blue_diamond: Always learning new technologies and improving my skills
-- :small_blue_diamond: Interested in AI, open source, and software development
-- :small_blue_diamond: Open to collaboration and new opportunities
+- <img src="assets/bullet_diamond.png" width="12" alt="-" /> 17-year-old full-stack web developer
+- <img src="assets/bullet_diamond.png" width="12" alt="-" /> Passionate about building modern web applications
+- <img src="assets/bullet_diamond.png" width="12" alt="-" /> Always learning new technologies and improving my skills
+- <img src="assets/bullet_diamond.png" width="12" alt="-" /> Interested in AI, open source, and software development
+- <img src="assets/bullet_diamond.png" width="12" alt="-" /> Open to collaboration and new opportunities
 
 <br/>
 
@@ -35,12 +35,12 @@
 
 </div>
 
-- :small_blue_diamond: Full-Stack Development
-- :small_blue_diamond: Web Application Development
-- :small_blue_diamond: Open Source
-- :small_blue_diamond: Artificial Intelligence
-- :small_blue_diamond: UI/UX Design
-- :small_blue_diamond: Cloud Computing
+- <img src="assets/bullet_diamond.png" width="12" alt="-" /> Full-Stack Development
+- <img src="assets/bullet_diamond.png" width="12" alt="-" /> Web Application Development
+- <img src="assets/bullet_diamond.png" width="12" alt="-" /> Open Source
+- <img src="assets/bullet_diamond.png" width="12" alt="-" /> Artificial Intelligence
+- <img src="assets/bullet_diamond.png" width="12" alt="-" /> UI/UX Design
+- <img src="assets/bullet_diamond.png" width="12" alt="-" /> Cloud Computing
 
 <br/>
 
