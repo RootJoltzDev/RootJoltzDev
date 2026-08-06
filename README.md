@@ -2,10 +2,9 @@
 
 <img src="assets/banner_hero.png" alt="William Holley banner" width="100%" />
 
-<img src="https://komarev.com/ghpvc/?username=RootJoltzDev&label=Profile%20Views&color=0abab5&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/RootJoltzDev?label=Followers&style=for-the-badge&color=c9302c" alt="Followers" />
-
 </div>
+
+<img src="assets/separator.png" alt="" width="100%" />
 
 <img src="assets/banner_about.png" alt="About Me" width="100%" />
 
@@ -14,6 +13,8 @@
 - <img src="assets/bullet_diamond.png" width="12" alt="-" /> Always learning new technologies and improving my skills
 - <img src="assets/bullet_diamond.png" width="12" alt="-" /> Interested in AI, open source, and software development
 - <img src="assets/bullet_diamond.png" width="12" alt="-" /> Open to collaboration and new opportunities
+
+<img src="assets/separator.png" alt="" width="100%" />
 
 <img src="assets/banner_focus.png" alt="Focus Areas" width="100%" />
 
@@ -24,6 +25,8 @@
 - <img src="assets/bullet_diamond.png" width="12" alt="-" /> UI/UX Design
 - <img src="assets/bullet_diamond.png" width="12" alt="-" /> Cloud Computing
 
+<img src="assets/separator.png" alt="" width="100%" />
+
 <img src="assets/banner_stats.png" alt="GitHub Stats & Trophies" width="100%" />
 
 <div align="center">
@@ -33,6 +36,8 @@
 </a>
 
 </div>
+
+<img src="assets/separator.png" alt="" width="100%" />
 
 <img src="assets/banner_stack.png" alt="Languages & Tools" width="100%" />
 
@@ -57,6 +62,8 @@
 
 </div>
 
+<img src="assets/separator.png" alt="" width="100%" />
+
 <img src="assets/banner_connect.png" alt="Connect With Me" width="100%" />
 
 <div align="center">
@@ -71,8 +78,13 @@
   <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="36" />
 </a>
 
-<br/><br/>
+</div>
 
-<img src="assets/monogram.png" width="56" alt="William Holley monogram" />
+<img src="assets/separator.png" alt="" width="100%" />
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=RootJoltzDev&label=Profile%20Views&color=0abab5&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/RootJoltzDev?label=Followers&style=for-the-badge&color=c9302c" alt="Followers" />
 
 </div>
