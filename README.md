@@ -32,7 +32,7 @@
 <div align="center">
 
 <a href="https://github.com/RootJoltzDev">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RootJoltzDev&cache_seconds=7200&layout=compact&theme=dark&border_radius=10&hide_border=true&bg_color=0d1117&title_color=0abab5&text_color=e8e6e3" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RootJoltzDev&cache_seconds=7200&layout=compact&border_radius=10&hide_border=true&bg_color=1a1e12&title_color=c4b66e&text_color=eeebd6&icon_color=8a9a5b" alt="GitHub Stats" />
 </a>
 
 </div>
@@ -43,22 +43,11 @@
 
 <div align="center">
 
-**Languages**
+**Languages:** JavaScript &nbsp;&middot;&nbsp; Python &nbsp;&middot;&nbsp; C++
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" />&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="36" />&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="36" />
+**Frontend & Backend:** HTML5 &nbsp;&middot;&nbsp; Node.js &nbsp;&middot;&nbsp; Express.js
 
-**Frontend & Backend**
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="36" />&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="36" />&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="36" />
-
-**Database**
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="36" />&nbsp;&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="36" />
+**Database:** MongoDB &nbsp;&middot;&nbsp; SQLite
 
 </div>
 
@@ -68,15 +57,7 @@
 
 <div align="center">
 
-<a href="https://www.youtube.com/@RootJoltzX">
-  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" alt="YouTube" width="36" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:william.h61909@gmail.com">
-  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="36" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://william.pink/">
-  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="36" />
-</a>
+[YouTube](https://www.youtube.com/@RootJoltzX) &nbsp;&middot;&nbsp; [Email](mailto:william.h61909@gmail.com) &nbsp;&middot;&nbsp; [Website](https://william.pink/)
 
 </div>
 
@@ -84,7 +65,7 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=RootJoltzDev&label=Profile%20Views&color=0abab5&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/RootJoltzDev?label=Followers&style=for-the-badge&color=c9302c" alt="Followers" />
+<img src="https://komarev.com/ghpvc/?username=RootJoltzDev&label=Profile%20Views&color=8a9a5b&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/RootJoltzDev?label=Followers&style=for-the-badge&color=6b6836&labelColor=1a1e12" alt="Followers" />
 
 </div>
