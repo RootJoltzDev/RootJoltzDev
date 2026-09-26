@@ -1,33 +1,33 @@
 <div align="center">
 
-<img src="assets/banner_hero.png" alt="William Holley banner" width="100%" />
+<img src="assets/hero_camo.png" alt="William Holley banner" width="100%" />
 
 </div>
 
-<img src="assets/separator.png" alt="" width="100%" />
+<img src="assets/divider_camo.png" alt="" width="100%" />
 
-<img src="assets/banner_about.png" alt="About Me" width="100%" />
+<img src="assets/about_camo.png" alt="About Me" width="100%" />
 
-- <img src="assets/bullet_diamond.png" width="12" alt="-" /> 17-year-old full-stack web developer
-- <img src="assets/bullet_diamond.png" width="12" alt="-" /> Passionate about building modern web applications
-- <img src="assets/bullet_diamond.png" width="12" alt="-" /> Always learning new technologies and improving my skills
-- <img src="assets/bullet_diamond.png" width="12" alt="-" /> Interested in AI, open source, and software development
-- <img src="assets/bullet_diamond.png" width="12" alt="-" /> Open to collaboration and new opportunities
+- <img src="assets/bullet_camo.png" width="12" alt="-" /> 17-year-old full-stack web developer
+- <img src="assets/bullet_camo.png" width="12" alt="-" /> Passionate about building modern web applications
+- <img src="assets/bullet_camo.png" width="12" alt="-" /> Always learning new technologies and improving my skills
+- <img src="assets/bullet_camo.png" width="12" alt="-" /> Interested in AI, open source, and software development
+- <img src="assets/bullet_camo.png" width="12" alt="-" /> Open to collaboration and new opportunities
 
-<img src="assets/separator.png" alt="" width="100%" />
+<img src="assets/divider_camo.png" alt="" width="100%" />
 
-<img src="assets/banner_focus.png" alt="Focus Areas" width="100%" />
+<img src="assets/focus_camo.png" alt="Focus Areas" width="100%" />
 
-- <img src="assets/bullet_diamond.png" width="12" alt="-" /> Full-Stack Development
-- <img src="assets/bullet_diamond.png" width="12" alt="-" /> Web Application Development
-- <img src="assets/bullet_diamond.png" width="12" alt="-" /> Open Source
-- <img src="assets/bullet_diamond.png" width="12" alt="-" /> Artificial Intelligence
-- <img src="assets/bullet_diamond.png" width="12" alt="-" /> UI/UX Design
-- <img src="assets/bullet_diamond.png" width="12" alt="-" /> Cloud Computing
+- <img src="assets/bullet_camo.png" width="12" alt="-" /> Full-Stack Development
+- <img src="assets/bullet_camo.png" width="12" alt="-" /> Web Application Development
+- <img src="assets/bullet_camo.png" width="12" alt="-" /> Open Source
+- <img src="assets/bullet_camo.png" width="12" alt="-" /> Artificial Intelligence
+- <img src="assets/bullet_camo.png" width="12" alt="-" /> UI/UX Design
+- <img src="assets/bullet_camo.png" width="12" alt="-" /> Cloud Computing
 
-<img src="assets/separator.png" alt="" width="100%" />
+<img src="assets/divider_camo.png" alt="" width="100%" />
 
-<img src="assets/banner_stats.png" alt="GitHub Stats & Trophies" width="100%" />
+<img src="assets/stats_camo.png" alt="GitHub Stats & Trophies" width="100%" />
 
 <div align="center">
 
@@ -37,9 +37,9 @@
 
 </div>
 
-<img src="assets/separator.png" alt="" width="100%" />
+<img src="assets/divider_camo.png" alt="" width="100%" />
 
-<img src="assets/banner_stack.png" alt="Languages & Tools" width="100%" />
+<img src="assets/stack_camo.png" alt="Languages & Tools" width="100%" />
 
 <div align="center">
 
@@ -51,9 +51,9 @@
 
 </div>
 
-<img src="assets/separator.png" alt="" width="100%" />
+<img src="assets/divider_camo.png" alt="" width="100%" />
 
-<img src="assets/banner_connect.png" alt="Connect With Me" width="100%" />
+<img src="assets/connect_camo.png" alt="Connect With Me" width="100%" />
 
 <div align="center">
 
@@ -61,7 +61,7 @@
 
 </div>
 
-<img src="assets/separator.png" alt="" width="100%" />
+<img src="assets/divider_camo.png" alt="" width="100%" />
 
 <div align="center">
 
